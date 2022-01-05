@@ -1,8 +1,1 @@
-<div align="center">
-  <h3>Welcome to Ostmodern</h1>
-  <h3>
-    <img src="https://github.com/ostmodern/skylark/blob/develop/images/icon-skylark-white.png" width="100px"/><br/>
-    Home of Skylark
-  </h3>
-  <a href="https://www.skylarkplatform.com/">Find out more.</a>
-</div>
+![ostmodern-london-office-slit](https://user-images.githubusercontent.com/7024743/148195655-776fa698-6d6f-4782-92d9-4a577895efdf.png)
